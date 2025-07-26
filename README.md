@@ -28,7 +28,6 @@
 ### 🚀 À propos de moi
 
 - 🎓 Diplômé en Développement Informatique (mention **Très Bien**)
-- 💼 Actuellement à la recherche d’opportunités de stage ou d’emploi
 - 🧠 Toujours en train d’apprendre de nouvelles technologies et outils
 - 🛠️ Passionné par la création de solutions intelligentes (IA, web apps, mobile)
 
@@ -36,32 +35,43 @@
 
 ### 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/-Mon_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil/)  
-✉️ Email : [said@example.com](mailto:said@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/said-ouchrif-990947194/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidouchrif16@gmail.com)
 
 ---
 
-### 🎮 Mini-jeu Snake pour s'amuser :
+### 🎮 Jeux pour se détendre
 
-> Clique sur l'image pour jouer !
+#### 🐍 Snake Game (GitHub Contributions)
+> Clique pour jouer !
 
 [![Snake Game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
+
+#### 👨‍🚀 Among Us (Fan Game)
+> Clique pour jouer à un mini-jeu Among Us (HTML5)
+
+🎮 [Jouer à Among Us](https://scratch.mit.edu/projects/475535107/) *(via Scratch)*
 
 ---
 
 ### 📊 Statistiques GitHub
 
-![Said's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton-utilisateur&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-utilisateur&layout=compact&theme=tokyonight)
+![Said's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saidouchrif&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saidouchrif&layout=compact&theme=tokyonight)
+
+---
+
+### 📈 Activité récente
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saidouchrif&theme=github-compact)
 
 ---
 
 ### 🔗 Liens utiles
 
-- 🔗 [Mon Portfolio](https://tonportfolio.com)
-- 📁 [Mes Projets](https://github.com/ton-utilisateur?tab=repositories)
+- 🌐 [Mon Portfolio](https://tonportfolio.com) *(à mettre à jour si tu en as un)*
+- 📁 [Mes Projets GitHub](https://github.com/Saidouchrif?tab=repositories)
 
 ---
 
-✨ _Merci de visiter mon profil ! N’hésitez pas à me contacter ou à collaborer sur des projets !_
-
+✨ _Merci d’avoir visité mon profil ! N'hésitez pas à me suivre ou à me contacter pour collaborer !_
