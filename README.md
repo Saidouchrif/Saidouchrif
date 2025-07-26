@@ -36,7 +36,7 @@
 ### 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/said-ouchrif-990947194/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidouchrif16@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidouchrif16@gmail.com?subject=Contact%20depuis%20GitHub&body=Bonjour%20Said%2C%0AJe%20souhaite%20vous%20contacter%20concernant...)
 
 ---
 
