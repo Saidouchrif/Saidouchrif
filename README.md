@@ -50,7 +50,7 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Saidouchrif" />
+  <img src="https://github-readme-stats.hackclub.dev/api?username=Saidouchrif&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
