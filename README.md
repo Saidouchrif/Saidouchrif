@@ -50,12 +50,8 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Saidouchrif&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.hackclub.dev/api?username=Saidouchrif&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=Saidouchrif&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saidouchrif&theme=tokyonight&row=1&column=6" />
 </p>
 
 <p align="center">
