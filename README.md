@@ -49,10 +49,7 @@
 
 ## 📊 Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saidouchrif&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidouchrif&layout=compact&theme=tokyonight" height="150" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saidouchrif&theme=github-compact" />
