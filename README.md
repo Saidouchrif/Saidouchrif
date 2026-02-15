@@ -49,19 +49,14 @@
 
 ## 📊 Statistiques GitHub
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Saidouchrif&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Saidouchrif" />
-    </td>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=Saidouchrif&row=2&column=3" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Saidouchrif&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Saidouchrif&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saidouchrif&theme=tokyonight&row=1&column=6" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saidouchrif&theme=github-compact" />
