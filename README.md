@@ -50,10 +50,10 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saidouchrif&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Saidouchrif" height="170" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Saidouchrif&row=1&column=3" height="170" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saidouchrif&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true" width="32%" />
+  <img src="https://streak-stats.demolab.com?user=Saidouchrif" width="32%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Saidouchrif&row=1&column=3" width="32%" />
+</p>>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saidouchrif&theme=github-compact" />
