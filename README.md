@@ -50,8 +50,7 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api?username=Saidouchrif&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=Saidouchrif&theme=tokyonight" />
+  <img src="https://ghchart.rshah.org/Saidouchrif" />
 </p>
 
 <p align="center">
